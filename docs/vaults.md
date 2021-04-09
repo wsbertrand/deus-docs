@@ -24,7 +24,7 @@ At the end of each trading season the sTokens can be exchanged for locked collat
 
 As was previously stated, collateral provided will not be able to be withdrawn from the vaults, but you may sell your sTokens at any time.
 Your sTokens constitute your position in the vault, and may be sold through Balancer for an equivalent amount of DEA.
-An arbitrage bot will continuously adjust the value of sTokens to close in on a ratio of 1:1 with their unsealed counterparts, but please bare in mind that there will always be some form of slippage between these assets and fees required for exiting the vaults.
+An arbitrage bot will continuously adjust the value of sTokens to close in on a ratio of 1:1 with their unsealed counterparts, but please bear in mind that there will always be some form of slippage between these assets and fees required for exiting the vaults.
 ##### Reminder: Once you sell your sTokens you can no longer redeem original collateral provided. (Selling sDEA is like selling your DEA)
 
 
